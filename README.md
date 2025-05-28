@@ -1,4 +1,6 @@
 # **Donnie Thornberry Troll Bot**
+### this shouldn't be a fork anymore, because it's a port to the new Discord API and support for M-series macbooks. 
+
 
 Created this bot to troll my friends in discord. Bot joins the channel and Donnie Thornberry speaks over the designated target when they try to speak. I'll probably fiddle with this and clean it up over the next few days.
 
